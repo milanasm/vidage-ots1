@@ -1,4 +1,4 @@
-from math import *  # импортируем все функции из модуля math
+from math import *  
 
 print("Ruudu karakteristikud")
 try:
